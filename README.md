@@ -1,7 +1,5 @@
-# Rock-Paper-and-Scissors-Game
+## ✊ Rock-Paper-Scissors Game (Python)
 
-Play Rock-Paper-and-Scissors-Game with computer.
-
-<hr/>
+##
 
 ### Best regards :heart:
