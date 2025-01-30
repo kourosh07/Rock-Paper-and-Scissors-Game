@@ -11,6 +11,10 @@ A simple Python program to play Rock-Paper-Scissors against the computer.
 ### ▶ How to Play
 Run the Python script and follow the on-screen instructions to make your move.
 
+
+### 🛠 Requirements
+- Python 3.x
+
 ##
 
 ### Best regards :heart:
